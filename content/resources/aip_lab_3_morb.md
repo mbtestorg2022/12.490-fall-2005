@@ -7,6 +7,7 @@ description: 'The major goals of this lab are: 1) To introduce the accepted term
   system magmatic processes.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-490-advanced-igneous-petrology-fall-2005/199d1887980218bf5c04c4006c286830_aip_lab_3_morb.pdf
 file_type: application/pdf
+parent_uid: cbd915b9-4ab8-8811-5f2c-0415b038b3ae
 resourcetype: Document
 title: aip_lab_3_morb.pdf
 uid: 199d1887-9802-18bf-5c04-c4006c286830
